@@ -40,7 +40,7 @@ To run the code using Google Colab:
 
 The guide includes the following sections:
 
-1. **Installing Required Libraries:** Learn how to install the `requests` library using `pip`.
+1. **Installing Required Libraries:** Install the `requests` library using `pip`.
 
 2. **Choosing GPS Coordinates:** Decide on the GPS coordinates for the origin and destination points you want to calculate distances for.
 
