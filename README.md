@@ -62,7 +62,7 @@ The guide includes the following sections:
 
 ## Notes
 
-- Make sure to review and comply with the OpenStreetMap API usage policy before using the API in a production environment or for heavy usage.
+- Make sure to review and comply with the OpenStreetMap API usage policy before using the OSRM API in a production environment or for heavy usage.
 - Feel free to customize the code and adapt it to your specific requirements.
 
 ## License
