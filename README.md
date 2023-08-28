@@ -54,9 +54,10 @@ The guide includes the following sections:
   
     6.1 **Adding Plotting Capability:** Enhance the code to visualize the calculated distances and durations using scatter plots.
 
-    6.2 **Great-Circle Haversine Distance:** The code also computes the great-circle haversine distance between GPS coordinates as an additional feature.
+    6.2 **Great-Circle Haversine Distance and Comparison with OpenStreetMap API:** The code also computes the great-circle haversine distance between GPS coordinates as an additional feature. Then, it compares the calculated distances with those obtained from the OpenStreetMap API for the chosen profile (e.g., driving).
 
-    6.3 **Comparison with OpenStreetMap API:** The code compares the calculated distances and durations with those obtained from the OpenStreetMap API for the chosen profile (e.g., driving). 
+   6.3 **Calculating the Closest Destination:** Some suggestions for extending the code to compute the nearest destination for each origin, potentially reducing the utilization of the OpenStreetMap API.
+   
   
 
 ## Notes
