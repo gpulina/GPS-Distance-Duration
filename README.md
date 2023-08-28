@@ -16,7 +16,7 @@ Before you begin, make sure you have the following:
 
 2. Open your preferred Python code editor or IDE.
 
-3. Follow the instructions in the guide to calculate distances and trip durations between GPS coordinates. The guide should cover all available profiles (driving, walfing, biking), but results seem to always default to driving scenarios.
+3. Follow the instructions in the guide to calculate distances and trip durations between GPS coordinates. The guide should cover all available profiles (driving, walking, biking), but results seem to default to driving scenarios.
 
 4. Run the provided code samples to see the results and plot the data.
 
@@ -46,7 +46,7 @@ The guide includes the following sections:
 
 3. **Calculating Road Distances and Trip Durations:** Use the provided code samples to calculate road distances and durations between GPS coordinates.
 
-4. **Customization:** Some remarks on customizazion and modes of transportation determined statically by the Lua profile. 
+4. **Customization:** Some remarks on modes of transportation determined statically by the Lua profile. 
 
 5. **Review API Usage Policy**
 
@@ -56,7 +56,7 @@ The guide includes the following sections:
 
     6.2 **Great-Circle Haversine Distance and Comparison with OpenStreetMap API:** The code also computes the great-circle haversine distance between GPS coordinates as an additional feature. Then, it compares the calculated distances with those obtained from the OpenStreetMap API for the chosen profile (e.g., driving).
 
-   6.3 **Calculating the Closest Destination:** Some suggestions for extending the code to compute the nearest destination for each origin, potentially reducing the utilization of the OpenStreetMap API.
+   6.3 **Calculating the Closest Destination:** Suggestions for extending the code to compute the nearest destination for each origin, potentially reducing the utilization of the OpenStreetMap API.
    
   
 
@@ -68,4 +68,3 @@ The guide includes the following sections:
 ## License
 
 This guide is provided under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and guide as needed.
-
