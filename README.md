@@ -16,7 +16,7 @@ Before you begin, make sure you have the following:
 
 2. Open your preferred Python code editor or IDE.
 
-3. Follow the instructions in the guide to calculate distances and trip durations between GPS coordinates. The guide should cover all available profiles (driving, walking, biking), but results seem to default to driving scenarios.
+3. Follow the instructions in the notebook to calculate distances and trip durations between GPS coordinates. The guide should cover all available profiles (driving, walking, biking), but results seem to default to driving scenarios.
 
 4. Run the provided code samples to see the results and plot the data.
 
