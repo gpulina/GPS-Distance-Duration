@@ -16,7 +16,7 @@ Before you begin, make sure you have the following:
 
 2. Open your preferred Python code editor or IDE.
 
-3. Follow the instructions in the notebook to calculate distances and trip durations between GPS coordinates. The guide should cover all available profiles (driving, walking, biking), but results seem to default to driving scenarios.
+3. Follow the instructions in the notebook to calculate distances and trip durations between GPS coordinates. The notebook should cover all available profiles (driving, walking, biking), but results seem to default to driving scenarios.
 
 4. Run the provided code samples to see the results and plot the data.
 
@@ -36,9 +36,9 @@ To run the code using Google Colab:
 
 5. The code will execute in the Colab environment, and you can view the results directly within the notebook.
 
-## Guide Content
+## Notebook Content
 
-The guide includes the following sections:
+The notebook includes the following sections:
 
 1. **Installing Required Libraries:** Install the `requests` library using `pip`.
 
@@ -67,4 +67,4 @@ The guide includes the following sections:
 
 ## License
 
-This guide is provided under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and guide as needed.
+This notebook is provided under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and notebook as needed.
