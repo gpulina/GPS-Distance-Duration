@@ -1,6 +1,6 @@
 # GPS Distance and Trip Duration
 
-This [guide](GPS_Distance_Duration) provides a step-by-step walkthrough on how to calculate road distances and trip durations between pairs of GPS coordinates using the OpenStreetMap API.
+This [guide](https://github.com/gpulina/GPS-Distance-Duration/blob/main/GPS_Distance_Duration.ipynb) provides a step-by-step walkthrough on how to calculate road distances and trip durations between pairs of GPS coordinates using the OpenStreetMap API.
 
 ## Prerequisites
 
