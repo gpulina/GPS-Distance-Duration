@@ -38,7 +38,7 @@ To run the code using Google Colab:
 
 ## Guide Content
 
-The [notebook](https://github.com/gpulina/GPS-Distance-Duration/blob/main/LICENSE) includes the following sections:
+The [notebook](https://github.com/gpulina/GPS-Distance-Duration/blob/main/GPS_Distance_Duration.ipynb) includes the following sections:
 
 1. **Installing Required Libraries:** Install the `requests` library using `pip`.
 
